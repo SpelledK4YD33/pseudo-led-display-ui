@@ -37,7 +37,7 @@ project-folder/
                 ├── 6.6 First Parking_No Parking Sign.png # Used when count reaches zero
 
                 │
-                └── version_5.py                               # The Python script
+                └── version_6.py                               # The Python script
 
 Note:
 - The script uses up to 6 images from the Traffic Signs folder.
@@ -46,7 +46,7 @@ Note:
 Running the Script
 ------------------
 From your terminal or command prompt, navigate to the project directory and run:
-    python version_5.py
+    python version_6.py
 
 The script will open in fullscreen mode. To exit, press any key or close the window.
 
