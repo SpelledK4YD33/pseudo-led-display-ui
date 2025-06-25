@@ -1,0 +1,12 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>FirstParkingDisplay</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">body[_ngcontent-ng-c3821812397]{font-family:sans-serif;background-color:#f0f4f8;display:flex;justify-content:center;align-items:center;height:100vh}.directional-screen[_ngcontent-ng-c3821812397]{background:#fff;border-radius:1rem;box-shadow:0 4px 20px #0000001a;padding:2rem;width:300px;text-align:center}.direction[_ngcontent-ng-c3821812397]{display:flex;justify-content:space-between;align-items:center;margin:1rem 0}.arrow[_ngcontent-ng-c3821812397]{font-size:1.5rem}.count[_ngcontent-ng-c3821812397]{font-size:1.5rem;font-weight:700}.no-available[_ngcontent-ng-c3821812397]{font-size:1.5rem;font-weight:700;color:red}</style></head>
+<body><!--nghm-->
+  <app-root ng-version="19.2.14" _nghost-ng-c3821812397 ngh="0" ng-server-context="ssg"><div _ngcontent-ng-c3821812397 class="directional-screen"><h2 _ngcontent-ng-c3821812397 id="zone-title">Zone Availability</h2><div _ngcontent-ng-c3821812397 id="directions-container"></div></div></app-root>
+<script src="polyfills-B6TNHZQ6.js" type="module"></script><script src="main-NPUZK5XT.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{}]}</script></body></html>`;
