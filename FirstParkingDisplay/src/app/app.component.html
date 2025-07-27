@@ -1,9 +1,0 @@
-<div class="directional-screen">
-  <h2>{{ zone }} Entry Availability</h2>
-  <div *ngFor="let dir of directions" class="direction">
-    <span class="arrow">{{ displayNames[dir] }}</span>
-    <span [ngClass]="counts[dir] === 0 ? 'no-available' : 'count'">
-      {{ counts[dir] !== 0 ? counts[dir] : '⛔' }}
-    </span>
-  </div>
-</div>
