@@ -1,0 +1,29 @@
+.directional-screen {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 50px;
+}
+
+.direction {
+  margin: 20px 0;
+  font-size: 100px;
+}
+
+.arrow {
+  align-content: flex-start;
+  margin-right: 10px;
+  font-size: 100px;
+}
+
+.count {
+  font-weight: bold;
+  color: green;
+}
+
+.no-available {
+  font-weight: bold;
+  color: red;
+}
+*{
+  font-size: 100px;
+}
